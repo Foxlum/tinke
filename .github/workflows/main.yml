@@ -42,4 +42,4 @@ jobs:
       with:
     # Artifact name
        name:
-       path: "D:\a\tinke\tinke\"
+       path: D:\a\tinke\tinke\
